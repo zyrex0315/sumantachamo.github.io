@@ -6,18 +6,19 @@ const About = () => {
 
   const skills = [
     { name: 'UI/UX', level: 80, icon: '🎨' },
-    { name: 'Photoshop , Figma', level: 92, icon: '🖼️' },
+    { name: 'Photoshop , Figma', level: 80, icon: '🖼️' },
    
-    { name: 'React', level: 85, icon: '⚛️' },
-    { name: 'JavaScript', level: 88, icon: '🚀' },
+    { name: 'React', level: 75, icon: '⚛️' },
+    { name: 'JavaScript', level: 85, icon: '🚀' },
     
    
   ];
 
   const experience = [
-    { title: 'Fullstack Developer', company: 'Freelance', year: '2023-Present' },
-    { title: 'UI/UX Designer', company: 'Local Agency', year: '2022-2023' },
-    { title: 'Web Designer', company: 'Startup', year: '2021-2022' }
+    { title: 'Fullstack Developer', company: 'SynthBit', year: '' level :'Intern'  },
+    // { title: 'UI/UX Designer', company: 'Local Agency', year: '2022-2023' },
+    // { title: 'Web Designer', company: 'Startup', year: '2021-2022' },
+   { title: 'Data Specialist.', company: 'Cloudfactory', year: '2023- Present'   },
   ];
 
   const education = [

@@ -14,7 +14,7 @@ const About = () => {
   ];
 
   const experience = [
-    { title: 'Fullstack Developer', company: 'SynthBit Technologies', year: 'Intern', level : 'Intern'  },
+    { title: 'Fullstack Developer', company: 'SynthBit Technologies', year: 'Intern june 2025 - Present',   },
     // { title: 'UI/UX Designer', company: 'Local Agency', year: '2022-2023' },
     // { title: 'Web Designer', company: 'Startup', year: '2021-2022' },
    { title: 'Data Specialist.', company: 'Cloudfactory', year: '2023- Present'   },
